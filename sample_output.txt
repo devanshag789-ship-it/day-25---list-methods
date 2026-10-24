@@ -1,0 +1,10 @@
+After insert: ['apple', 'orange', 'banana']
+Index of banana: 2
+Count of banana: 1
+Sorted descending: [9, 7, 7, 6, 5, 5, 4, 3, 2, 1, 0]
+Reversed: [5, 9, 6, 8, 3, 2, 1]
+Original: [1, 2, 3]
+Copy changed: [1, 2, 100]
+Extended a: [1, 2, 3, 4]
+Unchanged b: [3, 4]
+After clear: []
